@@ -1,4 +1,4 @@
-AI_Resume_Screener
+AI Resume Screener
 
 
 A minimal, **offline-friendly** Python Streamlit app that accepts **PDF resumes** and a **Job Description** (paste or .txt file), then analyzes and ranks how well the CV matches the job.
